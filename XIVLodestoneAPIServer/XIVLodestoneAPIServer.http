@@ -1,0 +1,6 @@
+@XIVLodestoneAPIServer_HostAddress = http://localhost:5269
+
+GET {{XIVLodestoneAPIServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

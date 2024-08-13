@@ -1,0 +1,6 @@
+﻿services:
+  xivlodestoneapiserver:
+    image: xivlodestoneapiserver
+    build:
+      context: .
+      dockerfile: XIVLodestoneAPIServer/Dockerfile
